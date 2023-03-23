@@ -10,7 +10,7 @@ PS D:\Downloads\termproject\backend> npm --version
 9.5.0 
 ```
 
-# Install mongoDB
+# Install MongoDB
 https://www.mongodb.com/try/download/community
 
 
