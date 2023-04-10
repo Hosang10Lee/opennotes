@@ -1,0 +1,10 @@
+{
+  "id": "com.sample.design",
+  "version": "1.0.0",
+  "type": "web",
+  "main": "index.html",
+  "title": "Design Sample App",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "supportPortraitMode": true
+}
